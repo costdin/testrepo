@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "1.0.0"
+    "body-parser": "1.0.0",
+    "dustjs-linkedin": "0.0.24"
   }
 }
