@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "1.0.0",
-    "dustjs-linkedin": "0.0.24"
+    "dustjs-linkedin": "3.0.0"
   }
 }
