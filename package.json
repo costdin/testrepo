@@ -9,8 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "1.0.0",
+    "body-parser": "1.19.2",
     "dustjs-linkedin": "0.0.24",
-    "lodash": "1.0.0"
+    "lodash": "4.17.21"
   }
 }
